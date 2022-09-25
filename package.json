@@ -1,6 +1,6 @@
 {
   "name": "moviestore",
-  "homepage": "https://webapp10.github.io/moviestore",
+  "homepage": "https://webapp10.github.io/moviestore/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

@@ -6,13 +6,13 @@ const NavigationLayout = () => {
             <div className="logo">MOVIE STORE</div>
             <ul className="nav justify-content-center">
                 <li className="nav-item">
-                    <NavLink className="nav-link" to="/home">HOME</NavLink>
+                    <NavLink className="nav-link" to="/moviestore/home">HOME</NavLink>
                 </li>
                 {/* <li className="nav-item">
                     <NavLink className="nav-link" to="/categories">CATEGORIES</NavLink>
                 </li> */}
                 <li className="nav-item">
-                    <NavLink className="nav-link" to="/about">ABOUT</NavLink>
+                    <NavLink className="nav-link" to="/moviestore/about">ABOUT</NavLink>
                 </li>
             </ul>
 
