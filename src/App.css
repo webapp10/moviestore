@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&display=swap');
+
+.logo {
+  font-family: 'Bungee Spice', cursive;
+  text-align: center;
+  margin: 40px;
+  font-size: 40px;
+}
+
+.nav-link {
+  color: black;
+  font-size: larger;
+  font-weight: bold;
+}
+
+.active {
+  background-color: #0F3460;
+  color: white;
+}
+
+body {
+  background-color: #FFFFFF;
+  background-image: url("https://www.transparenttextures.com/patterns/az-subtle.png");
+  background-attachment: fixed;
+}
+
+.searchBoxContainer {
+  margin-top: 30px;
+  text-align: center;
+}
+
+input {
+  text-align: center;
+  width: 80%;
+  border: none;
+  border-bottom: 2px solid #92B4EC;
+  outline: none;
+  height: 40px;
+  color: black;
+  font-size: large;
+}
+
+.searchIcon {
+  margin-left: 10px;
+}
+
+.cardContainer {
+  text-align: center;
+}
+
+.aboutSection {
+  margin-top: 70px;
+  padding: 10px;
+  background-color: white;
+}
+
+.categoryBtn {
+  text-align: center;
+  margin: 20px auto 30px auto;
+}
+
+.categoryBtn button {
+  margin: 10px;
+}
+
+.paramHeading {
+  font-weight: bolder;
+  font-size: 40px;
+  color: #92B4EC;
+}
