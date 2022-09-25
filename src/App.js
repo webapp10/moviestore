@@ -15,7 +15,7 @@ function App() {
 
     <Router>
       <Routes>
-        <Route path="moviestore/" element={<Layout />}>
+        <Route path="/moviestore" element={<Layout />}>
           <Route index element={<Home />} />
           <Route path="home" element={<Home />} />
           <Route path="about" element={<About />} />
